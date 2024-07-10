@@ -127,6 +127,9 @@ main{
 .section-description{
     margin-bottom: 48px;
 }
+.webdev-reason{
+    display: flex;
+}
 
 /* skills section styles */
 .skills-container{
