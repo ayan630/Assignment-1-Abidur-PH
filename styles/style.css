@@ -316,3 +316,24 @@ iframe{
     display: flex;
     align-items: center;
 }
+/* footer styles */
+.footer-container{
+    border: 2px solid red;
+    /* min-width: 1440px; */
+    height: 100px;
+    padding: 32px 150px 32px 150px;
+    margin-top: 80px;
+    border-radius: 16px;
+    background-color: rgba(13, 19, 33, 0.03);
+}
+.footer-first-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 36px;
+    /* width: 1140px; */
+}
+.footer-first-section p{
+    font-size: 20px;
+    font-weight: 600;
+}
