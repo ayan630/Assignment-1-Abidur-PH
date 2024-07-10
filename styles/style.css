@@ -202,6 +202,8 @@ main{
 .skills {
     margin-top: 151px;
     border: 2px solid red;
+    width: 1140px;
+    height: 460px;
 }
 .skill-title{
     font-size: 24px;
