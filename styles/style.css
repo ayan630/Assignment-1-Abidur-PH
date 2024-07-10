@@ -10,10 +10,21 @@ body{
 }
 
 /* shared styles */
-/* might not use it */
-/* .color-1-black{
+.section-title{
+    font-size: 32px;
+    font-weight: 800;
     color: rgb(13, 19, 33);
-} */
+}
+.secondary-bg{
+    background-color: rgba(13, 19, 33, 0.02);
+}
+.text-center{
+    text-align: center;
+}
+
+.section-subtitle{
+
+}
 
 /* Button styles */
 .btn-1{
@@ -88,4 +99,31 @@ nav ul li{
     height: 240px;
     margin-top: 26px;
     margin-bottom: 43px;
+}
+
+/* main styles */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+/* section style */
+.why-webdev{
+    border: 2px solid red;
+    border-radius: 16px;
+    width: 1140px;
+    height: 1395px;
+    padding: 80px 97px 80px 97px;
+    /* margin-left: 150px;
+    margin-right: 150px; */
+    margin-top: 74px;
+    margin-bottom: 88px;
+    /* background-color: rgba(13, 19, 33, 0.02); */
+    text-align: center;
+}
+.section-title{
+
+}
+.section-description{
+    margin-bottom: 48px;
 }
