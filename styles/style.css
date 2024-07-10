@@ -165,7 +165,7 @@ main{
     width: 259.56px;
     height: 217.01px;
     margin-left: 100px;
-    align-items:end;
+    /* align-items:end; */
 }
 #img-2{ 
     width: 223.2px;
