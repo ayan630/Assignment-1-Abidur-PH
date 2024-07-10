@@ -137,6 +137,8 @@ main{
     border-radius: 16px;
     margin: 32px 0px;
     padding: 48px;
+    width: 946px;
+    height: 336px;
 }
 .reason-title{
     font-size: 24px;
