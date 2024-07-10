@@ -76,7 +76,6 @@ nav ul li{
     min-width: 1440px;
     margin: 0 auto;
     margin-top: 47px;
-    border: 2px solid red;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -113,7 +112,6 @@ main{
 
 /* WebDev section style */
 .why-webdev{
-    border: 2px solid red;
     border-radius: 16px;
     width: 1140px;
     height: 1395px;
@@ -200,8 +198,7 @@ main{
     margin-top: 48px;
 }
 .skills {
-    margin-top: 151px;
-    border: 2px solid red;
+    margin-top: 150px;
     width: 1140px;
     height: 460px;
 }
@@ -250,7 +247,6 @@ main{
 .inspiration{
     width: 1140px;
     height: 775px;
-    border: 2px solid red;
 }
 .youtube-video{
     border: 1px solid rgba(13, 19, 33, 0.2);
@@ -265,15 +261,14 @@ iframe{
 }
 /* feedback section styles */
 .feedback-container{
-    border: 2px solid red;
     background-image: url(../assets/handshake.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     background-color: rgba(0, 0, 0, 0.4);
     background-blend-mode: overlay;
-     height: 313px;
-    margin-top: 50px;
+    height: 313px;
+    margin-top: 90px;
     border-radius: 16px;
     display: flex;
     flex-direction: column;
@@ -318,7 +313,6 @@ iframe{
 }
 /* footer styles */
 .footer-container{
-    border: 2px solid red;
     /* min-width: 1440px; */
     height: 100px;
     padding: 32px 150px 32px 150px;
