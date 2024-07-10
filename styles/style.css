@@ -127,3 +127,48 @@ main{
 .section-description{
     margin-bottom: 48px;
 }
+
+/* skills section styles */
+.skills-container{
+    display: flex;
+    gap: 24px;
+    margin-top: 48px;
+}
+.skill{
+    /* padding: 40px;
+    border-radius: 16px; */
+    
+}
+.skill-title{
+    font-size: 24px;
+    font-weight: 800;
+    color: rgb(13, 19, 33);
+    margin-bottom: 8px;
+}
+.skill-description{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(13, 19, 33);
+    margin-bottom: 24px;
+}
+.skill-img{
+    margin-bottom: 24px;
+}
+.skill-learn-more{
+
+}
+.skill-1{
+    background-color: rgba(255, 76, 30, 0.05);
+    border-radius: 16px;
+    padding: 40px;
+}
+.skill-2{
+    background-color: rgba(0, 76, 232, 0.05);
+    border-radius: 16px;
+    padding: 40px;
+}
+.skill-3{
+    background-color: rgba(255, 223, 0, 0.05);
+    border-radius: 16px;
+    padding: 40px;
+}
