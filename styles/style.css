@@ -261,3 +261,56 @@ main{
 iframe{
     border-radius: 16px;
 }
+/* feedback section styles */
+.feedback-container{
+    border: 2px solid red;
+    background-image: url(../assets/handshake.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.4);
+    background-blend-mode: overlay;
+     height: 313px;
+    margin-top: 50px;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* width: 90%; */
+    /* margin: 0 auto; */
+}
+.feedback-content h3 {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 16px;
+    color: rgb(255, 255, 255);
+}
+.feedback-content p {
+    margin-bottom: 34px;
+    color: rgb(255, 255, 255);
+}
+.feedback-content input {
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 8px;
+    width: 548px;
+    height: 57px;
+    padding: 19px 20px 19px 20px;
+    background-color: rgb(255, 255, 255);
+}
+#submit-btn{
+    width: 120px;
+    height: 57px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(13, 19, 33);
+    border-radius: 8px;
+    padding: 17px 20px 17px 20px;
+    margin: 0px 16px;
+    background-color: rgb(255, 255, 255);
+}
+.feedback-sub{
+    display: flex;
+    align-items: center;
+}
